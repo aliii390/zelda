@@ -1,0 +1,15 @@
+{
+  "name": "zelda-custom",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000z\u0000e\u0000l\u0000d\u0000a\u0000\r\u0000 \u0000",
+  "main": "index.js",
+ "scripts": {
+  "build:css": "tailwindcss build -i ./css/input.css -o ./css/output.css --watch"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
